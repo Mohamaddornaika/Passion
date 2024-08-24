@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c77ce5f8.css",
+    "main.js": "/static/js/main.3b0e7757.js",
+    "static/media/bg.jpg": "/static/media/bg.f9741720ed493b658b52.jpg",
+    "static/media/DamageReport2.png": "/static/media/DamageReport2.aafff1882b87c609643a.png",
+    "static/media/Refound.png": "/static/media/Refound.4cec67ae5aa3a3e50564.png",
+    "static/media/OutInsideCleaning.png": "/static/media/OutInsideCleaning.bb350b33bc7fd89afa56.png",
+    "static/media/InInsideCleaning.png": "/static/media/InInsideCleaning.c43b114d07c0b1ae7ddb.png",
+    "static/media/checkDamageReport2.png": "/static/media/checkDamageReport2.27c4cc6c49df5fbc4c6e.png",
+    "static/media/cleaning.png": "/static/media/cleaning.c64d17e447d0769e60d8.png",
+    "static/media/InWashing.png": "/static/media/InWashing.b450962258b586b1bde0.png",
+    "static/media/OutWashing.png": "/static/media/OutWashing.5eafabec03f30fc6b8d4.png",
+    "static/media/Employee.png": "/static/media/Employee.ee0411ccc579ce9099fb.png",
+    "static/media/CheckStats.png": "/static/media/CheckStats.09323f2bb626b9c24b14.png",
+    "index.html": "/index.html",
+    "main.c77ce5f8.css.map": "/static/css/main.c77ce5f8.css.map",
+    "main.3b0e7757.js.map": "/static/js/main.3b0e7757.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c77ce5f8.css",
+    "static/js/main.3b0e7757.js"
+  ]
+}
